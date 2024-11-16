@@ -4,7 +4,6 @@ public class QuizProtocol {
     // Client to Server
     public static final String START = "START";
     public static final String ANSWER_PREFIX = "ANSWER:";
-    public static final String QUIT = "QUIT";
 
     // Server to Client
     public static final String QUESTION_PREFIX = "QUESTION:";
